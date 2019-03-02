@@ -1,1 +1,1 @@
-# email-spoof-spam
+# smtplib-cpp is a C++ smtp libary
