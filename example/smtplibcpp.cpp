@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
-send("Hi", "something@gmail.com")
+myemail("youremail@something.com");
+send("Hi", "something@gmail.com");
 return 0;
 }
